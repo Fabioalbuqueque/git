@@ -1,0 +1,40 @@
+.inp{
+    padding: 10px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    color:black;
+    border-radius: 10px;
+    border: none;
+   
+    outline: none;
+}
+
+.h2,.di{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bs{
+    color: aliceblue;
+    background-color: rgb(247, 237, 237);
+    border: none;
+    background: none;
+    outline: none;
+    cursor: pointer;
+    border-radius: 10px;
+   
+}
+
+.btn{
+    margin: 10px;
+    background: none;
+     border: none;
+     color: aliceblue;
+     outline: none;
+     cursor: pointer;
+    font-size: 30px;
+     border-radius: 10px;
+ }
