@@ -1,6 +1,8 @@
 # GitHub Perfil
 
-Projeto criado para as pessoas pesquisarem por Perfil do usuario no GitHub
+# Descrição
+UM APP PARA PROCURAR PERFIL NO GITHUB
+
 ## Instalação
 
 Instale my-project com npm
@@ -10,6 +12,8 @@ Instale my-project com npm
   cd my-project
   npm run dev
 ```
+# 🛠 Habilidades
+  Typescript, HTML, CSS e API
     
 ## Licença
 
